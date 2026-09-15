@@ -33,9 +33,9 @@ Proje de en çok zorlandığım yer burasıydı. Türk edebiyatı klasiklerini b
 
 Modelin ürettiği örnek çıktı:
 
->
-Kadın cevap vermedi” diye korkuyla sordu, “Seni müdürüne haber vereceğini söyleyeyim: Sözlerimde, -Sen bu soru üzerine neler verdin?” dedi. Maamafih, biraz düşündükten sonra, “Biraz evvel gidiyorum” dedi “Haydi Çalıkuşu, bu haydi!”
->
+
+>Kadın cevap vermedi” diye korkuyla sordu, “Seni müdürüne haber vereceğini söyleyeyim: Sözlerimde, -Sen bu soru üzerine neler verdin?” dedi. Maamafih, biraz düşündükten sonra, “Biraz evvel gidiyorum” dedi “Haydi Çalıkuşu, bu haydi!”
+
 >Bu sözü dışarı at. Ne söylediğimi anlamıştım. Masanın üstüne oturdum. -Dilsitan Müdürü muayenehanesi mi? -Benim sözümü söyleme bu kadının etrafında her bir kız gibi Ferhunde söylüyor, bahçeye koşuyor. Ben, güzel dolu bir karış karış dönüyorum, fakat bahçede kimsenin nesi, bizim “otur” diye de evvelce görmek mümkün olmayan bir yer olmalı. Dışarda bir karış ki, bitkin yer taşıman, böyle küçük dalların ululuğudur, bütün muharrir ve dağlar Ayasofya’yı en az az süzmeye alıştım. Bunları mahkûm ettiler. Fakat kim ölmüş? Ha, doğru terbiyeli, mahzuniyeti idi. Hüsrev alim, kimseleri de yoktu. O gün onu ona söylemekte belki artık mazinin, bu ağaç, bu tür duvarın etrafındaki ağaçta oturma büyümüştü. Sessizce duruyor, doktorlar, Sör Hemşin’in dümende mütenasip bir adam
 
 
