@@ -1,5 +1,6 @@
+# Model mimarisi Andrej Karpathy'nin nanoGPT/ng-video-lecture reposundan
+# referans alınarak yazılmıştır: https://github.com/karpathy/ng-video-lecture
 import torch
-from tokenizers import Tokenizer
 import torch.nn as nn
 from torch.nn import functional as F
 
@@ -27,7 +28,7 @@ torch.manual_seed(3040)
 # ----------------
 
 with open(
-    "/kaggle/input/datasets/kronos1233/last-dance/Gpt_turko_GPT2_cleaned_optimized_v2.txt",
+    "final_data.txt",
     "r",
     encoding="utf-8",
 ) as f:
