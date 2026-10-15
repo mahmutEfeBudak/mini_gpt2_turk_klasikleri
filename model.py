@@ -1,5 +1,5 @@
 # Model mimarisi Andrej Karpathy'nin nanoGPT/ng-video-lecture reposundan
-# referans alınarak yazılmıştır: https://github.com/karpathy/ng-video-lecture
+# referans alınarak yazılmıştır: https://github.com/karpathy/ng-video-lecture 
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
