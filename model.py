@@ -4,7 +4,7 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
-device = (  # Kodun çalıştığı yerde GPU varsa GPU kullanılır.
+device = (  # Kodun çalıştığı ortamda GPU varsa GPU kullanılır.
     torch.accelerator.current_accelerator().type
     if torch.accelerator.is_available()
     else "cpu"
